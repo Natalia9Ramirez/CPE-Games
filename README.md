@@ -1,1 +1,1 @@
-# NGames
+# CPE Games
